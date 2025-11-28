@@ -1,51 +1,21 @@
-/* Random Quote Box */
-.sidebar-quote .quote-box {
-  position: relative;
-  background: var(--sidebar-bg, #f8f9fa);
-  padding: 1rem 1.4rem;  /* increase right/left padding slightly */
-  border-left: 4px solid var(--bs-primary);
-  border-radius: 6px;
-  font-family: "Georgia", serif;
-  margin-top: 1rem;
-  animation: fadeInQuote 0.8s ease-in-out;
+/* Random Quote Box - NUCLEAR TEST VERSION */
+#sidebar .sidebar-quote .quote-box {
+  background: #ff0000 !important; /* BRIGHT RED */
+  padding: 20px !important;
+  border: 5px solid #00ff00 !important; /* BRIGHT GREEN BORDER */
+  border-radius: 10px !important;
+  margin: 20px 0 !important;
 }
 
-/* Quote text */
-.sidebar-quote .quote-text {
-  font-weight: 600;
-  font-size: 0.95rem;
-  line-height: 1.4;
-  margin-bottom: 0.4rem;
+#sidebar .sidebar-quote .quote-text {
+  color: #ffff00 !important; /* BRIGHT YELLOW TEXT */
+  font-size: 20px !important;
+  font-weight: bold !important;
 }
 
-/* Author */
-.sidebar-quote .quote-author {
-  text-align: right;
-  font-style: italic;
-  opacity: 0.7;
-  font-size: 0.85rem;
-}
-
-/* Decorative quotation mark */
-.sidebar-quote .quote-box::before {
-  content: "“";
-  font-size: 2.4rem;
-  line-height: 0.5;
-  position: absolute;
-  top: -6px;
-  left: 6px;
-  opacity: 0.15;
-  font-family: Georgia, serif;
-}
-
-/* Fade-in animation */
-@keyframes fadeInQuote {
-  from {
-    opacity: 0;
-    transform: translateY(6px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+#sidebar .sidebar-quote .quote-author {
+  color: #00ffff !important; /* BRIGHT CYAN */
+  font-size: 16px !important;
+  text-align: right !important;
+  font-style: italic !important;
 }
