@@ -12,7 +12,7 @@ My path to historical study began early but was sharpened by experience. I serve
 My academic and personal interests are broad:
 
 * **American Civil War history**, especially Missouri and Kansas
-* The **Viking Age**
+* **The Viking Age**
 * **Medieval and Early Modern Europe**
 * **Ancient civilizations**
 * **Military history**
@@ -38,6 +38,14 @@ If you share an interest in the deep rhythms of history—or simply want to read
 
 **I don’t know everything. I don’t pretend to.
 I’m simply trying to think clearly about a topic that has shaped the past and will certainly shape the future.**
+
+*As a side note, for those curious, the site tile "Alas, Epicurus" is a combination of a couple things.
+
+First, Epicurus was an ancient Greek philosopher and sage who founded Epicureanism, a highly influential school of philosophy. His philosophy was fond of or adapted to luxury or indulgence in sensual pleasures; having luxurious tastes or habits, especially in eating and drinking. Epicureanism argued that pleasure was the chief good in life.
+
+Now, while it seems the US in the stages of civilization decline, the two final stages (varies between various viewpoints) before collapse are defined as "Age of Affluence" and then "Age of Moral Decay". Epicurus' belief goes hand in hand with the affluent civilization we currently reside in.
+
+Finally, pieced together with author Pat Frank's post-apocalyptic book "Alas, Babylon" I decided on Alas, Epicurus as a title for a site dealing with the fall of civilizations.*
 
 Thanks for visiting, and I hope you find something here worth thinking about.
 
