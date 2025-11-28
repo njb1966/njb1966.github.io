@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Fate of Empires: Glubb’s Life Cycle in Light of Modern Scholarship"
-date: 2025-11-28
+date: 2025-11-28 10:00:00 -0500
 description: "A critical exploration of Sir John Glubb’s thesis about the recurring life cycle of empires, compared with contemporary research on state rise and decline."
 categories: [History, Political Thought, Longform]
 topics:
