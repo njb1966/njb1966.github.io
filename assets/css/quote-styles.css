@@ -1,0 +1,44 @@
+/* Quote Box Styles - High Specificity */
+#sidebar .sidebar-quote {
+  margin: 1.5rem 0 !important;
+  padding: 0 1.5rem !important;
+}
+
+#sidebar .sidebar-quote .quote-box {
+  position: relative !important;
+  background: rgba(100, 100, 100, 0.2) !important;
+  padding: 1.2rem 1.4rem !important;
+  border-left: 4px solid #4a9eff !important;
+  border-radius: 8px !important;
+  font-family: Georgia, serif !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25) !important;
+  margin: 0 !important;
+}
+
+#sidebar .sidebar-quote .quote-text {
+  font-weight: 500 !important;
+  font-size: 0.9rem !important;
+  line-height: 1.5 !important;
+  margin-bottom: 0.5rem !important;
+  margin-top: 0 !important;
+}
+
+#sidebar .sidebar-quote .quote-author {
+  text-align: right !important;
+  font-style: italic !important;
+  opacity: 0.8 !important;
+  font-size: 0.8rem !important;
+  margin-bottom: 0 !important;
+}
+
+/* Light mode - more visible background */
+html[data-mode=light] #sidebar .sidebar-quote .quote-box {
+  background: rgba(0, 0, 0, 0.08) !important;
+  border-left-color: #2a7ae4 !important;
+}
+
+/* Dark mode - lighter background */
+html[data-mode=dark] #sidebar .sidebar-quote .quote-box {
+  background: rgba(255, 255, 255, 0.08) !important;
+  border-left-color: #6a9eff !important;
+}
