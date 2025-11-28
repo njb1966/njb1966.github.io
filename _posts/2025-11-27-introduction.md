@@ -1,6 +1,6 @@
 ---
 title: "Why Civilizations Rise and Fall: An Introduction"
-date: 2025-11-27 18:00:00 -0500
+date: 2025-11-27 08:00:00 -0500
 categories: [Foundations]
 tags: [Theory, Method, Opinion, Rise, Fall, Define]
 toc: true
