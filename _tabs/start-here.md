@@ -1,6 +1,7 @@
 ---
 title: "Start Here"
 layout: page
+icon: fas fa-compass
 permalink: /start-here/
 toc: true
 comments: true
