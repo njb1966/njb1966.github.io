@@ -21,7 +21,7 @@ tagline: A long-view analysis blog exploring the rise, decline, and patterns of 
 description: >- # used by seo meta and the atom feed
   A long-view analysis blog exploring the rise, decline, and patterns of civilizations.
 
-logo: /assets/logo1.png
+logo: /assets/img/logo.png
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -101,7 +101,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: true
+avatar:
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
