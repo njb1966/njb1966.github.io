@@ -3,12 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-Below is a clean, polished **About Me** page written to fit your *Alas, Epicurus* site—serious, reflective, historically grounded, and inviting.
-If you’d like, I can also produce a shorter sidebar version and a Jekyll-ready Markdown version.
-
----
-
 # **About Me**
 
 My name is **Nick Burchett**. I was born in 1966 and live in Kansas, where I balance a full-time career as an **IT Business Systems Analyst** with a lifelong passion for history, philosophy, and the long arc of human civilization. I am divorced, a father of three grown children, and someone who has spent decades studying how people, societies, and institutions rise, flourish, and eventually decline.
