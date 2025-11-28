@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding the Stages of Civilizational Stress: Mechanisms, Histories, and Practical Lessons"
-date: 2025-11-27
+date: 2025-11-27 18:00:00 -0500
 description: "A mechanism-first synthesis of civilizational stress—cohesion, economy, governance, ecology, external pressure, and culture—with historical cases and practical takeaways."
 series: "Civilization Theory Portfolio"
 categories:
