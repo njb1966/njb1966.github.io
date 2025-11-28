@@ -1,9 +1,26 @@
-"The only true wisdom is in knowing you know nothing. — Socrates"
-"Do not go where the path may lead, go instead where there is no path and leave a trail. — Ralph Waldo Emerson"
-"Life is what happens when you're busy making other plans. — John Lennon"
-"In the middle of difficulty lies opportunity. — Albert Einstein"
-"Ninety-nine percent of all failures come from people who have a habit of making excuses. — George Washington Carver"
-"A lie doesn't become truth, wrong doesn't become right, and evil doesn't become good, just because it's accepted by a majority. — Booker T. Washington"
-"A society is in decay, final or transitional, when common sense really becomes uncommon. — Gilbert K. Chesterton"
-"It has been said that civilization is twenty-four hours and two meals away from barbarism. ― Neil Gaiman"
-"Civilization is a hopeless race to discover remedies for the evils it produces. ― Rousseau"
+- text: "The only true wisdom is in knowing you know nothing."
+  author: "Socrates"
+
+- text: "Do not go where the path may lead, go instead where there is no path and leave a trail."
+  author: "Ralph Waldo Emerson"
+
+- text: "Life is what happens when you're busy making other plans."
+  author: "John Lennon"
+
+- text: "In the middle of difficulty lies opportunity."
+  author: "Albert Einstein"
+
+- text: "Ninety-nine percent of all failures come from people who have a habit of making excuses."
+  author: "George Washington Carver"
+
+- text: "A lie doesn't become truth, wrong doesn't become right, and evil doesn't become good, just because it's accepted by a majority."
+  author: "Booker T. Washington"
+
+- text: "A society is in decay, final or transitional, when common sense really becomes uncommon."
+  author: "Gilbert K. Chesterton"
+
+- text: "It has been said that civilization is twenty-four hours and two meals away from barbarism."
+  author: "Neil Gaiman"
+
+- text: "Civilization is a hopeless race to discover remedies for the evils it produces."
+  author: "Rousseau"

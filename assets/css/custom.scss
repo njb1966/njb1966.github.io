@@ -1,0 +1,54 @@
+---
+---
+
+/* Random Quote Box */
+.sidebar-quote .quote-box {
+  position: relative;
+  background: var(--sidebar-bg, #f8f9fa);
+  padding: 1rem 1.2rem;
+  border-left: 4px solid var(--bs-primary);
+  border-radius: 6px;
+  font-family: "Georgia", serif;
+  margin-top: 1rem;
+  animation: fadeInQuote 0.8s ease-in-out;
+}
+
+/* Quote text */
+.sidebar-quote .quote-text {
+  font-weight: 600;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  margin-bottom: 0.4rem;
+}
+
+/* Author */
+.sidebar-quote .quote-author {
+  text-align: right;
+  font-style: italic;
+  opacity: 0.7;
+  font-size: 0.85rem;
+}
+
+/* Decorative quotation mark */
+.sidebar-quote .quote-box::before {
+  content: "“";
+  font-size: 2.4rem;
+  line-height: 0.5;
+  position: absolute;
+  top: -6px;
+  left: 6px;
+  opacity: 0.15;
+  font-family: Georgia, serif;
+}
+
+/* Fade-in animation */
+@keyframes fadeInQuote {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

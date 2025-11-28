@@ -1,0 +1,11 @@
+{% assign quotes = site.data.quotes %}
+{% assign random_index = site.time | date: "%s" | modulo: quotes.size %}
+{% assign quote = quotes[random_index] %}
+
+<div class="quote-box">
+  <p class="quote-text">“{{ quote.text }}”</p>
+  {% if quote.author %}
+    <p class="quote-author">— {{ quote.author }}</p>
+  {% endif %}
+</div>
+
