@@ -9,7 +9,7 @@ comments: true
 
 # What I Mean by “Civilization”: Why They Rise and Fall, and What to Expect Here
 
-My approach begins with Glubb’s staged view of imperial careers and Ophuls’s diagnosis of ecological and organizational limits, then folds in Durant’s emphasis on morale, surplus, and institutional order, plus Hubbard’s insistence that individual motive (especially religious motive) scales into social stability. I write in a calm, analytical register—multiple causes, few absolutes, and no doomerism—and I organize notes and posts so you can trace mechanisms across cases rather than chase headlines [1].
+My approach begins with Glubb’s staged view of imperial careers and Ophuls’s diagnosis of ecological and organizational limits, then folds in Durant’s emphasis on morale, surplus, and institutional order, plus Hubbard’s insistence that individual motive (especially religious motive) scales into social stability. I write in a calm, analytical register—multiple causes, few absolutes, and no doomerism—and I organize notes and posts so you can trace mechanisms across cases rather than chase headlines.
 
 ## What is a civilization?
 
@@ -87,6 +87,5 @@ Civilizations are coordination machines that transform energy and knowledge into
 [^glubb]: Sir John Bagot Glubb, The Fate of Empires and Search for Survival (London: William Blackwood, 1978).  
 [^ophuls]: William (Patrick) Ophuls, Immoderate Greatness: Why Civilizations Fail (CreateSpace, 2012).  
 [^durant]: Will Durant and Ariel Durant, The Lessons of History (New York: Simon & Schuster, 1968), esp. ch. 12, “Growth and Decay.”  
-[^hubbard]: Arthur John Hubbard, Why Civilizations Rise & Fall. Publication details vary by edition; title as listed in the project’s core reading list [1].
+[^hubbard]: Arthur John Hubbard, Why Civilizations Rise & Fall. Publication details vary by edition; title as listed in the project’s core reading list.
 
-[1]: Civilization_Project_Knowledge_Pack.pdf — Project goals, tone, core readings (Glubb, Ophuls, Durant, Hubbard), Mechanisms Matrix (demography, energy, cohesion, elite competition, ecology, complexity), deliverables (theory notes, book notes, case studies, synthesis, hypotheses), and style guidance.
