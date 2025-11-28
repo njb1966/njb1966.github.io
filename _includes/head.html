@@ -128,4 +128,72 @@
   {% endif %}
 
   {% include metadata-hook.html %}
+    <!-- Custom Quote Styles -->
+  <style>
+    #sidebar .sidebar-quote {
+      margin: 1.5rem 0;
+      padding: 0 1rem;
+    }
+
+    #sidebar .sidebar-quote .quote-box {
+      position: relative;
+      background: var(--sidebar-hover-bg);
+      padding: 1.2rem 1.4rem;
+      border-left: 4px solid var(--sidebar-active-color);
+      border-radius: 8px;
+      font-family: Georgia, serif;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+      margin: 0;
+      animation: fadeInQuote 0.8s ease-in-out;
+    }
+
+    #sidebar .sidebar-quote .quote-text {
+      color: var(--sidebar-muted-color);
+      font-weight: 500;
+      font-size: 0.9rem;
+      line-height: 1.5;
+      margin-bottom: 0.5rem;
+      margin-top: 0;
+    }
+
+    #sidebar .sidebar-quote .quote-author {
+      color: var(--sidebar-muted-color);
+      text-align: right;
+      font-style: italic;
+      opacity: 0.8;
+      font-size: 0.8rem;
+      margin-bottom: 0;
+    }
+
+    #sidebar .sidebar-quote .quote-box::before {
+      content: """;
+      font-size: 3rem;
+      line-height: 0;
+      position: absolute;
+      top: 0.5rem;
+      left: 0.5rem;
+      opacity: 0.15;
+      color: var(--sidebar-active-color);
+      font-family: Georgia, serif;
+      font-weight: bold;
+    }
+
+    @keyframes fadeInQuote {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @media (max-width: 849px) {
+      #sidebar .sidebar-quote {
+        padding: 0 0.75rem;
+      }
+    }
+  </style>
+</head>
 </head>
