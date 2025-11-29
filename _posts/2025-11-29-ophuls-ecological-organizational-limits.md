@@ -2,7 +2,7 @@
 layout: post
 title: "William Ophuls and the Two Ceilings: Ecological and Organizational Limits"
 description: "A clear synthesis of William Ophuls’s diagnosis of biophysical limits and diminishing returns to organizational complexity, with historical cases and practical design implications."
-date: 2025-11-29 18:00:00 -0500
+date: 2025-11-29 06:00:00 -0500
 series: "Mechanisms & Limits"
 draft: false
 topics:
