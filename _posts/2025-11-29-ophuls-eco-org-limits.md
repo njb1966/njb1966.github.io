@@ -106,7 +106,7 @@ Peter Turchin’s structural-demographic theory models waves of social integrati
 
 Carroll Quigley and Fernand Braudel contribute the deep-time frame. Quigley’s instrument-to-institution shift meshes with Ophuls’s warning about rule accretion and rent-seeking; Braudel’s longue durée foregrounds the slow-moving constraints—geography, energy regimes, infrastructure—that structure the field of political possibility.[^quigley-1961][^braudel-1979] In this synthesis, energy and ecology set the basal conditions, while institutions and culture mediate how those conditions shape outcomes.
 
-For our project’s purposes, Ophuls maps onto a Mechanisms Matrix that includes energy, ecology, complexity, cohesion, and elite competition. He treats energy and ecology as basal constraints and organizational complexity and cohesion as the mediating variables that determine how societies handle stress. This framing supports a non-doom, multiple-causality stance: limits operate through incentives and maintenance burdens, not prophecy.[1]
+For our project’s purposes, Ophuls maps onto a Mechanisms Matrix that includes energy, ecology, complexity, cohesion, and elite competition. He treats energy and ecology as basal constraints and organizational complexity and cohesion as the mediating variables that determine how societies handle stress. This framing supports a non-doom, multiple-causality stance: limits operate through incentives and maintenance burdens, not prophecy.
 
 ---
 
@@ -140,7 +140,7 @@ None of this eliminates trade-offs. It makes them legible. Ophuls’s contributi
 
 **How this fits our project’s framework**
 
-Within our broader study of civilizational dynamics, Ophuls occupies a central place. He connects ecological and energy constraints to the mechanics of complexity, legitimacy, and elite behavior, aligning with the Mechanisms Matrix we use to organize causes and interactions. In our tiered reading plan, his work sits alongside Glubb and Durant as a core anchor, with Tainter, Homer-Dixon, and Turchin as complementary lenses.[1] Most importantly, Ophuls supports our anti-doom stance: he treats decline as a function of incentives and maintenance burdens rather than fate, emphasizing conditional paths and design choices.[1] For Zettelkasten purposes, his thesis breaks down naturally into theory notes on “ecological metabolism” and “diminishing returns to complexity,” mechanism notes on EROI and maintenance crowd-out, and case links ranging from late Rome to Tokugawa forestry to modern fisheries. The modularity of his arguments makes them easy to cross-link with other frameworks and to test against new evidence.
+Within our broader study of civilizational dynamics, Ophuls occupies a central place. He connects ecological and energy constraints to the mechanics of complexity, legitimacy, and elite behavior, aligning with the Mechanisms Matrix we use to organize causes and interactions. In our tiered reading plan, his work sits alongside Glubb and Durant as a core anchor, with Tainter, Homer-Dixon, and Turchin as complementary lenses. Most importantly, Ophuls supports our anti-doom stance: he treats decline as a function of incentives and maintenance burdens rather than fate, emphasizing conditional paths and design choices. For Zettelkasten purposes, his thesis breaks down naturally into theory notes on “ecological metabolism” and “diminishing returns to complexity,” mechanism notes on EROI and maintenance crowd-out, and case links ranging from late Rome to Tokugawa forestry to modern fisheries. The modularity of his arguments makes them easy to cross-link with other frameworks and to test against new evidence.
 
 ---
 
@@ -187,4 +187,3 @@ https://publishing.cdlib.org/ucpressebooks/view?docId=ft5g500724
 [^myers-hutchings-1996]: Ransom A. Myers and Jeffrey A. Hutchings, “The Nature of the Cod Collapse,” Canadian Journal of Fisheries and Aquatic Sciences 54, no. 6 (1997): 125–138; see also D. Pauly et al., “Fishing Down Marine Food Webs,” Science 279, no. 5352 (1998): 860–863.  
 https://doi.org/10.1139/f97-010
 
-[1]: Civilization_Project_Knowledge_Pack.pdf — Core reading tiers, Mechanisms Matrix (demography, energy, cohesion, elite competition, ecology, complexity), and an anti-doom, multiple-causality stance that emphasizes complexity over catastrophe.
