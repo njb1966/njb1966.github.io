@@ -1,21 +1,34 @@
-/* Random Quote Box - NUCLEAR TEST VERSION */
+/* Random Quote Styles */
+#sidebar .sidebar-quote {
+  margin: 1.5rem 0 !important;
+  padding: 0 1rem !important;
+}
+
 #sidebar .sidebar-quote .quote-box {
-  background: #ff0000 !important; /* BRIGHT RED */
-  padding: 20px !important;
-  border: 5px solid #00ff00 !important; /* BRIGHT GREEN BORDER */
-  border-radius: 10px !important;
-  margin: 20px 0 !important;
+  position: relative !important;
+  background: var(--sidebar-hover-bg) !important;
+  padding: 1.2rem 1.4rem !important;
+  border-left: 4px solid var(--sidebar-active-color) !important;
+  border-radius: 8px !important;
+  font-family: Georgia, serif !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15) !important;
+  margin: 0 !important;
 }
 
 #sidebar .sidebar-quote .quote-text {
-  color: #ffff00 !important; /* BRIGHT YELLOW TEXT */
-  font-size: 20px !important;
-  font-weight: bold !important;
+  color: var(--sidebar-muted-color) !important;
+  font-weight: 500 !important;
+  font-size: 0.9rem !important;
+  line-height: 1.5 !important;
+  margin-bottom: 0.5rem !important;
+  margin-top: 0 !important;
 }
 
 #sidebar .sidebar-quote .quote-author {
-  color: #00ffff !important; /* BRIGHT CYAN */
-  font-size: 16px !important;
+  color: var(--sidebar-muted-color) !important;
   text-align: right !important;
   font-style: italic !important;
+  opacity: 0.8 !important;
+  font-size: 0.8rem !important;
+  margin-bottom: 0 !important;
 }
