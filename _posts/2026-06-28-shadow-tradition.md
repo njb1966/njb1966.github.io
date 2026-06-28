@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Shadow Tradition: Why Every Culture Builds an Altar to Its Own Darkness"
-date: 2026-06-28 12:00:00 -0500
+date: 2026-06-28 04:00:00 -0500
 description: "Why 'dark side' philosophies recur across cultures—how dominant moral frameworks over-correct, accumulate a shadow surplus, and provoke counter-traditions, from Odin and Prometheus to Nietzsche, Jung, and the Sith. A culture-level reading of the same patterns that drive civilizational stress."
 series: "Culture & Civilization"
 categories:

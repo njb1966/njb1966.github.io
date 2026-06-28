@@ -56,6 +56,7 @@ Planned and ongoing series (examples)
 - Trade networks and institutions
 - Case studies (e.g., Rome, Maya, Abbasid, Song)
 - Reading and reviewing classic works in the field
+- Culture & Civilization: reading societies through their myths, shadows, and counter-traditions
 
 Publishing cadence
 - Expect fewer, longer essays rather than frequent short posts. Quality and readability come first.
